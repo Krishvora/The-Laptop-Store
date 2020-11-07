@@ -1,3 +1,4 @@
 # The-Laptop-Store
 
-<img width="1680" alt="Screenshot 2020-11-07 at 4 21 09 PM" src="https://user-images.githubusercontent.com/43543486/98439117-8f787c80-2115-11eb-9cae-7ecd39514ccd.png">
+![Screenshot 2020-11-07 at 4 21 09 PM-min](https://user-images.githubusercontent.com/43543486/98439208-4aa11580-2116-11eb-8bee-ee8918d14b1b.png)
+
